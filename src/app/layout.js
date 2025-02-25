@@ -21,9 +21,7 @@ export const metadata = {
   description: 'Professional forex trading services including account management, free gold signals, and mentorship classes.',
 };
 
-import { ReactNode } from 'react';
-
-export default function RootLayout({ children }: { children: ReactNode }) {
+export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${inter.variable} ${poppins.variable}`}>
       <body className="flex flex-col min-h-screen">

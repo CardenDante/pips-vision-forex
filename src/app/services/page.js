@@ -4,10 +4,10 @@ import React, { useState } from 'react';
 import { FaUserCog, FaChartLine, FaGraduationCap, FaWhatsapp, FaArrowRight, FaCheck, FaQuestionCircle } from 'react-icons/fa';
 import Button from '../../components/ui/Button';
 
-export const metadata = {
-  title: 'Our Services - Pips Vision',
-  description: 'Professional forex trading services including account management, free gold signals, and comprehensive mentorship classes.',
-};
+// export const metadata = {
+//   title: 'Our Services - Pips Vision',
+//   description: 'Professional forex trading services including account management, free gold signals, and comprehensive mentorship classes.',
+// };
 
 export default function ServicesPage() {
   const [activeTab, setActiveTab] = useState('account');

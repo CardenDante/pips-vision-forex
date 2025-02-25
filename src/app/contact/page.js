@@ -4,10 +4,10 @@ import React from 'react';
 import { FaWhatsapp, FaEnvelope, FaUserAlt, FaCommentAlt, FaPhone, FaCheck } from 'react-icons/fa';
 import Button from '../../components/ui/Button';
 
-export const metadata = {
-  title: 'Contact Us - Pips Vision',
-  description: 'Get in touch with Pips Vision for forex trading services including account management, signals, and mentorship.',
-};
+// export const metadata = {
+//   title: 'Contact Us - Pips Vision',
+//   description: 'Get in touch with Pips Vision for forex trading services including account management, signals, and mentorship.',
+// };
 
 export default function ContactPage() {
   const handleSubmit = (e) => {
