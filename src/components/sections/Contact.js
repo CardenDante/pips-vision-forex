@@ -62,7 +62,7 @@ const Contact = () => {
                 <h3 className="text-xl font-semibold mb-2">WhatsApp Group</h3>
                 <p className="text-gray-600 mb-2">Join our community for daily signals and discussions</p>
                 <Button 
-                  href="https://chat.whatsapp.com/your-group-link" 
+                  href="https://chat.whatsapp.com/G30ASx0P4qm3v1u2cy1FG6" 
                   variant="accent"
                   className="mt-2"
                   external

@@ -72,7 +72,7 @@ export default function ContactContent() {
                 Join our community for daily signals and discussions.
               </p>
               <Button 
-                href="https://chat.whatsapp.com/your-group-link" 
+                href="https://chat.whatsapp.com/G30ASx0P4qm3v1u2cy1FG6" 
                 variant="accent"
                 external
               >

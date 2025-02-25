@@ -222,7 +222,7 @@ export default function ServicesContent() {
               </div>
               <div className="text-center md:text-right">
                 <Button
-                  href="https://chat.whatsapp.com/your-group-link"
+                  href="https://chat.whatsapp.com/G30ASx0P4qm3v1u2cy1FG6"
                   variant="accent"
                   className="text-lg px-8 py-4"
                   external

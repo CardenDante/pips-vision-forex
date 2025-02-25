@@ -62,7 +62,7 @@ const Services = () => {
               Join our WhatsApp group for daily signals and updates
             </p>
             <Button 
-              href="https://chat.whatsapp.com/your-group-link" 
+              href="https://chat.whatsapp.com/G30ASx0P4qm3v1u2cy1FG6" 
               variant="accent"
               className="text-white"
               external
