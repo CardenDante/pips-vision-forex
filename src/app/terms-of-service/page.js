@@ -3,7 +3,9 @@ import React from 'react';
 
 export const metadata = {
   title: 'Terms of Service - Pips Vision',
-  description: 'Terms and conditions for using Pips Vision forex trading services. Understand our service agreement and your rights and responsibilities.',
+  description: 'Terms and conditions for using Pips Vision forex trading services. Understand our service agreement and your rights and responsibilities. Learn about our trading terms, user obligations, and legal policies.',
+  keywords: 'terms of service, service agreement, user rights, user responsibilities, forex trading terms, service conditions, legal terms, user agreement, trading services, Pips Vision terms',
+
 };
 
 export default function TermsOfServicePage() {

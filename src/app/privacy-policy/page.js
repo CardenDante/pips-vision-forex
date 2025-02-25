@@ -3,8 +3,10 @@ import React from 'react';
 
 export const metadata = {
   title: 'Privacy Policy - Pips Vision',
-  description: 'Privacy policy for Pips Vision forex trading services. Learn how we collect, use, and protect your information.',
-};
+  description: 'Privacy policy for Pips Vision forex trading services. Learn how we collect, use, and protect your information. This policy outlines our commitment to data protection and user privacy.',
+
+    keywords: 'privacy policy, data protection, user privacy, information security, personal data, data collection, data usage, user rights, cookies policy, GDPR compliance, data security, user rights management, privacy practices, data handling, compliance policies'
+  };
 
 export default function PrivacyPolicyPage() {
   return (

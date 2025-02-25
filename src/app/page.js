@@ -8,7 +8,8 @@ import Contact from '../components/sections/Contact';
 export const metadata = {
   title: 'Pips Vision - Professional Forex Trading Services',
   description: 'Pips Vision offers expert forex trading services including account management, free gold signals, and mentorship classes for traders of all levels.',
-  keywords: 'forex trading, account management, gold signals, forex mentorship, trading education, forex market, trading signals',
+  keywords: 'forex trading, account management, gold signals, forex mentorship, trading education, forex market, trading signals, forex trading strategies, forex trading platform, forex investment, forex trading community, forex trading success, forex analysis, trading tools, forex resources, forex signals provider, forex trading education',
+
   openGraph: {
     title: 'Pips Vision - Professional Forex Trading Services',
     description: 'Expert forex trading services including account management, free gold signals, and mentorship classes.',

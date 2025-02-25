@@ -5,7 +5,8 @@ import AboutContent from './AboutContent';
 export const metadata = {
   title: 'About Us - Pips Vision Forex Trading',
   description: 'Learn about Pips Vision, our forex trading expertise, mission, values, and journey to become a trusted name in the forex market.',
-  keywords: 'forex trading company, forex expertise, forex mission, forex values, forex team, forex journey, trading history',
+  keywords: 'forex trading company, forex expertise, forex mission, forex values, forex team, forex journey, trading history, forex trading strategies, forex market analysis, forex education, forex trading tools, forex investment, forex signals, forex trading community, forex trading success, forex trading resources',
+
   openGraph: {
     title: 'About Pips Vision - Our Forex Trading Mission & Values',
     description: 'Learn about Pips Vision, our forex trading expertise, mission, values, and journey to become a trusted name in the forex market.',
