@@ -19,6 +19,10 @@ const poppins = Poppins({
   variable: '--font-poppins',
 });
 
+export const viewport = {
+  colorScheme: 'light',
+};
+
 export const metadata = {
   metadataBase: new URL('https://www.pipsvision.com'),
   title: {
@@ -28,7 +32,6 @@ export const metadata = {
   description: 'Professional forex trading services including account management, free gold signals, and mentorship classes.',
   keywords: ['forex trading', 'account management', 'gold signals', 'forex mentorship', 'trading education'],
   authors: [{ name: 'Pips Vision Team' }],
-  colorScheme: 'light',
   creator: 'Pips Vision',
   publisher: 'Pips Vision',
   formatDetection: {
@@ -63,23 +66,20 @@ export const metadata = {
       'max-snippet': -1,
     },
   },
-  icons: {
-    icon: [
-      { url: '/favicon.ico' },
-      { url: '/favicon-16x16.png', sizes: '16x16', type: 'image/png' },
-      { url: '/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
-    ],
-    apple: [
-      { url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' },
-    ],
-    other: [
-      {
-        rel: 'mask-icon',
-        url: '/safari-pinned-tab.svg',
-      },
-    ],
-  },
-  manifest: '/site.webmanifest',
+  // icons: {
+  //   icon: [
+  //     { url: '/favicon.ico' },
+  //     { url: '/favicon-96x96.png', sizes: '96x96', type: 'image/png' },
+  //     { url: '/favicon.svg', type: 'image/svg+xml' },
+  //   ],
+  //   apple: [
+  //     { url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' },
+  //   ],
+  //   shortcut: [
+  //     { url: '/favicon.ico' },
+  //   ],
+  // },
+  // manifest: '/site.webmanifest',
   twitter: {
     card: 'summary_large_image',
     title: 'Pips Vision - Forex Trading Services',
