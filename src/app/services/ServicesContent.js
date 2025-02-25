@@ -301,7 +301,7 @@ export default function ServicesContent() {
                 <FaChartLine className="text-4xl text-accent mx-auto mb-4" />
                 <h3 className="text-2xl font-semibold mb-2">Gold Signals</h3>
                 <div className="flex items-center justify-center">
-                  <span className="text-4xl font-bold text-accent">$99</span>
+                  <span className="text-4xl font-bold text-accent">$49</span>
                   <span className="text-gray-600 ml-2">/month</span>
                 </div>
                 <p className="text-gray-500 mt-2">Cancel anytime</p>
@@ -346,7 +346,7 @@ export default function ServicesContent() {
                 <FaGraduationCap className="text-4xl text-primary mx-auto mb-4" />
                 <h3 className="text-2xl font-semibold mb-2">Mentorship</h3>
                 <div className="flex items-center justify-center">
-                  <span className="text-4xl font-bold text-primary">$499</span>
+                  <span className="text-4xl font-bold text-primary">$100</span>
                   <span className="text-gray-600 ml-2">/program</span>
                 </div>
                 <p className="text-gray-500 mt-2">One-time payment</p>
