@@ -186,7 +186,7 @@ export default function ServicesContent() {
             {/* CTA */}
             <div className="text-center">
               <Button
-                href={`https://wa.me/yourphonenumber?text=I'm interested in your ${tabContent[activeTab].title} service`}
+                href={`https://wa.me/254796280700?text=I'm interested in your ${tabContent[activeTab].title} service`}
                 variant="primary"
                 className="text-lg px-8 py-4"
                 external
@@ -282,7 +282,7 @@ export default function ServicesContent() {
               </ul>
               
               <Button
-                href="https://wa.me/yourphonenumber?text=I'm interested in Account Management"
+                href="https://wa.me/254796280700?text=I'm interested in Account Management"
                 variant="outline"
                 className="w-full"
                 external
@@ -331,7 +331,7 @@ export default function ServicesContent() {
               </ul>
               
               <Button
-                href="https://wa.me/yourphonenumber?text=I'm interested in Gold Signals"
+                href="https://wa.me/254796280700?text=I'm interested in Gold Signals"
                 variant="accent"
                 className="w-full"
                 external
@@ -376,7 +376,7 @@ export default function ServicesContent() {
               </ul>
               
               <Button
-                href="https://wa.me/yourphonenumber?text=I'm interested in the Mentorship Program"
+                href="https://wa.me/254796280700?text=I'm interested in the Mentorship Program"
                 variant="outline"
                 className="w-full"
                 external

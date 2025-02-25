@@ -44,7 +44,7 @@ const Services = () => {
                 <h3 className="text-2xl font-semibold mb-4">{service.title}</h3>
                 <p className="text-gray-600 mb-6">{service.description}</p>
                 <Button 
-                  href={`https://wa.me/yourphonenumber?text=I'm interested in your ${service.title} service`}
+                  href={`https://wa.me/254796280700?text=I'm interested in your ${service.title} service`}
                   variant="outline"
                   className="mt-auto"
                   external

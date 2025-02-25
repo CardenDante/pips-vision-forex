@@ -72,7 +72,7 @@ const Header = () => {
           
           {/* WhatsApp Button */}
           <a 
-            href="https://wa.me/yourphonenumber" 
+            href="https://wa.me/254796280700" 
             target="_blank" 
             rel="noopener noreferrer"
             className={`btn ${isScrolled ? 'btn-accent' : 'bg-accent-light hover:bg-accent text-white'} flex items-center`}
@@ -110,7 +110,7 @@ const Header = () => {
             
             {/* WhatsApp Button */}
             <a 
-              href="https://wa.me/yourphonenumber" 
+              href="https://wa.me/254796280700" 
               target="_blank" 
               rel="noopener noreferrer"
               className="btn btn-accent flex items-center justify-center"

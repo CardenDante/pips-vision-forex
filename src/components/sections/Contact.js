@@ -26,7 +26,7 @@ const Contact = () => {
                 <h3 className="text-xl font-semibold mb-2">WhatsApp</h3>
                 <p className="text-gray-600 mb-2">Quick responses within 24 hours</p>
                 <Button 
-                  href="https://wa.me/yourphonenumber" 
+                  href="https://wa.me/254796280700" 
                   variant="primary"
                   className="mt-2"
                   external

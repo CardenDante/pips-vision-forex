@@ -38,7 +38,7 @@ export default function ContactContent() {
                 Direct messaging for quick responses to your inquiries.
               </p>
               <Button 
-                href="https://wa.me/yourphonenumber" 
+                href="https://wa.me/254796280700" 
                 variant="primary"
                 external
               >

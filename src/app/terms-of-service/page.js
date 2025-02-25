@@ -128,7 +128,7 @@ export default function TermsOfServicePage() {
               </p>
               <p className="text-gray-700 mb-6">
                 <strong>Email:</strong> legal@pipsvision.com<br />
-                <strong>WhatsApp:</strong> +1234567890
+                <strong>WhatsApp:</strong> +254796280700
               </p>
             </div>
           </div>

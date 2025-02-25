@@ -121,7 +121,7 @@ export default function RootLayout({ children }) {
               ],
               contactPoint: {
                 '@type': 'ContactPoint',
-                telephone: '+1234567890',
+                telephone: '+254796280700',
                 contactType: 'customer service',
                 availableLanguage: ['English'],
               },

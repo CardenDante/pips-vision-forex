@@ -20,7 +20,7 @@ const Footer = () => {
             </p>
             <div className="flex space-x-4 mt-4">
               <a 
-                href="https://wa.me/yourphonenumber" 
+                href="https://wa.me/254796280700" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-white hover:text-accent-light"
@@ -72,12 +72,12 @@ const Footer = () => {
                 <div>
                   <p className="font-bold">WhatsApp</p>
                   <a 
-                    href="https://wa.me/yourphonenumber" 
+                    href="https://wa.me/254796280700" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="hover:text-accent-light"
                   >
-                    +1234567890
+                    +254796280700
                   </a>
                 </div>
               </div>

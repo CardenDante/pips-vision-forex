@@ -35,7 +35,7 @@ const Hero = () => {
             </Button>
             
             <Button 
-              href="https://wa.me/yourphonenumber" 
+              href="https://wa.me/254796280700" 
               variant="outline" 
               className="text-lg px-8 py-4 bg-transparent border-white text-white hover:bg-white hover:text-primary"
               external
