@@ -55,7 +55,7 @@ export default function ContactContent() {
                 Send us a detailed message about your trading needs.
               </p>
               <Button 
-                href="mailto:contact@pipsvision.com" 
+                href="mailto:cardendante@gmail.com" 
                 variant="primary"
                 external
               >

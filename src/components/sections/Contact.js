@@ -44,7 +44,7 @@ const Contact = () => {
                 <h3 className="text-xl font-semibold mb-2">Email</h3>
                 <p className="text-gray-600 mb-2">Send us a detailed inquiry</p>
                 <Button 
-                  href="mailto:contact@pipsvision.com" 
+                  href="mailto:cardendante@gmail.com" 
                   variant="primary"
                   className="mt-2"
                   external

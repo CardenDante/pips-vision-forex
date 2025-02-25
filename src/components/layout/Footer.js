@@ -28,7 +28,7 @@ const Footer = () => {
                 <FaWhatsapp size={24} />
               </a>
               <a 
-                href="mailto:contact@pipsvision.com" 
+                href="mailto:cardendante@gmail.com" 
                 className="text-white hover:text-accent-light"
               >
                 <FaEnvelope size={24} />
@@ -86,10 +86,10 @@ const Footer = () => {
                 <div>
                   <p className="font-bold">Email</p>
                   <a 
-                    href="mailto:contact@pipsvision.com" 
+                    href="mailto:cardendante@gmail.com" 
                     className="hover:text-accent-light"
                   >
-                    contact@pipsvision.com
+                    cardendante@gmail.com
                   </a>
                 </div>
               </div>
