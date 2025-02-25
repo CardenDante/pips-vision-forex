@@ -2,6 +2,7 @@
 
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { FaWhatsapp, FaEnvelope, FaArrowRight } from 'react-icons/fa';
 
 const Footer = () => {
@@ -98,17 +99,35 @@ const Footer = () => {
         </div>
         
         {/* Copyright */}
-        <div className="border-t border-blue-800 mt-8 pt-8 text-center text-sm">
-          <p>&copy; {currentYear} Pips Vision. All rights reserved.</p>
-          <p className="mt-2">
-            <Link href="/privacy-policy" className="hover:text-accent-light">
-              Privacy Policy
-            </Link>{' '}
-            |{' '}
-            <Link href="/terms-of-service" className="hover:text-accent-light">
-              Terms of Service
-            </Link>
-          </p>
+        <div className="border-t border-blue-800 mt-8 pt-8">
+          <div className="flex flex-col md:flex-row items-center justify-between">
+            <p>&copy; {currentYear} Pips Vision. All rights reserved.</p>
+            
+            <div className="mt-4 md:mt-0 flex items-center">
+              <span className="text-sm text-blue-200 mr-2">Powered by</span>
+              <a 
+                href="https://www.chach-a.com" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="inline-block"
+              >
+                <div className="flex items-center">
+                  <span className="text-accent-light font-semibold">Chacha</span>
+                  <span className="text-white font-semibold">Technologies</span>
+                </div>
+              </a>
+            </div>
+            
+            <div className="mt-4 md:mt-0">
+              <Link href="/privacy-policy" className="text-sm hover:text-accent-light">
+                Privacy Policy
+              </Link>{' '}
+              |{' '}
+              <Link href="/terms-of-service" className="text-sm hover:text-accent-light">
+                Terms of Service
+              </Link>
+            </div>
+          </div>
         </div>
       </div>
     </footer>
