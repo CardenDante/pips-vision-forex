@@ -4,7 +4,7 @@ import { Inter, Poppins } from 'next/font/google';
 import Header from '../components/layout/Header';
 import Footer from '../components/layout/Footer';
 import Script from 'next/script';
-import ClarityScript from './components/ClarityScript'
+import ClarityScript from '../components/ClarityScript';
 
 
 // Font configuration
