@@ -2,7 +2,7 @@
 // src/app/sitemap.js
 
 export default function sitemap() {
-    const baseUrl = 'https://www.pipsvision.com';
+    const baseUrl = 'https://pipsvision.ahancha.com';
     
     return [
       {

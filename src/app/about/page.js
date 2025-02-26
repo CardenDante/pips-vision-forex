@@ -10,7 +10,7 @@ export const metadata = {
   openGraph: {
     title: 'About Pips Vision - Our Forex Trading Mission & Values',
     description: 'Learn about Pips Vision, our forex trading expertise, mission, values, and journey to become a trusted name in the forex market.',
-    url: 'https://www.pipsvision.com/about',
+    url: 'https://pipsvision.ahancha.com/about',
     siteName: 'Pips Vision',
     images: [
       {
@@ -41,7 +41,7 @@ export const metadata = {
     },
   },
   alternates: {
-    canonical: 'https://www.pipsvision.com/about',
+    canonical: 'https://pipsvision.ahancha.com/about',
   },
 };
 

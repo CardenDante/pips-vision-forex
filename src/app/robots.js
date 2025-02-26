@@ -7,7 +7,6 @@ export default function robots() {
         allow: '/',
         disallow: ['/api/'],
       },
-      sitemap: 'https://www.pipsvision.com/sitemap.xml',
+      sitemap: 'https://pipsvision.ahancha.com/sitemap.xml',
     };
   }
-  

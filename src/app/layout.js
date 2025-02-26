@@ -26,7 +26,7 @@ export const viewport = {
 };
 
 export const metadata = {
-  metadataBase: new URL('https://www.pipsvision.com'),
+  metadataBase: new URL('https://pipsvision.ahancha.com'),
   title: {
     default: 'Pips Vision - Forex Trading Services',
     template: '%s | Pips Vision',
@@ -44,7 +44,7 @@ export const metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://www.pipsvision.com',
+    url: 'https://pipsvision.ahancha.com',
     siteName: 'Pips Vision',
     title: 'Pips Vision - Forex Trading Services',
     description: 'Professional forex trading services including account management, free gold signals, and mentorship classes.',
@@ -93,7 +93,7 @@ export const metadata = {
     google: 'google-site-verification-code',
   },
   alternates: {
-    canonical: 'https://www.pipsvision.com',
+    canonical: 'https://pipsvision.ahancha.com',
   },
 };
 
@@ -115,8 +115,8 @@ export default function RootLayout({ children }) {
               '@context': 'https://schema.org',
               '@type': 'Organization',
               name: 'Pips Vision',
-              url: 'https://www.pipsvision.com',
-              logo: 'https://www.pipsvision.com/logo.png',
+              url: 'https://pipsvision.ahancha.com',
+              logo: 'https://pipsvision.ahancha.com/logo.png',
               sameAs: [
                 'https://twitter.com/pipsvision',
                 'https://www.facebook.com/pipsvision',

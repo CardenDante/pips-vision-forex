@@ -9,7 +9,7 @@ export const metadata = {
   openGraph: {
     title: 'Forex Trading Services - Account Management, Signals & Mentorship',
     description: 'Explore our professional forex trading services: account management, gold signals, and mentorship programs.',
-    url: 'https://www.pipsvision.com/services',
+    url: 'https://pipsvision.ahancha.com/services',
     siteName: 'Pips Vision',
     images: [
       {
@@ -40,7 +40,7 @@ export const metadata = {
     },
   },
   alternates: {
-    canonical: 'https://www.pipsvision.com/services',
+    canonical: 'https://pipsvision.ahancha.com/services',
   },
 };
 

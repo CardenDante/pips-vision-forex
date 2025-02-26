@@ -9,7 +9,7 @@ export const metadata = {
   openGraph: {
     title: 'Contact Pips Vision - Get in Touch About Forex Trading Services',
     description: 'Reach us via WhatsApp, email, or contact form for inquiries about our forex trading services.',
-    url: 'https://www.pipsvision.com/contact',
+    url: 'https://pipsvision.ahancha.com/contact',
     siteName: 'Pips Vision',
     images: [
       {
@@ -40,7 +40,7 @@ export const metadata = {
     },
   },
   alternates: {
-    canonical: 'https://www.pipsvision.com/contact',
+    canonical: 'https://pipsvision.ahancha.com/contact',
   },
 };
 
