@@ -4,6 +4,8 @@ import { Inter, Poppins } from 'next/font/google';
 import Header from '../components/layout/Header';
 import Footer from '../components/layout/Footer';
 import Script from 'next/script';
+import ClarityScript from './components/ClarityScript'
+
 
 // Font configuration
 const inter = Inter({
@@ -99,6 +101,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${inter.variable} ${poppins.variable}`}>
       <body className="flex flex-col min-h-screen">
+      <ClarityScript />
         <Header />
         <main className="flex-grow">{children}</main>
         <Footer />
